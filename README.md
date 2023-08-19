@@ -28,4 +28,4 @@ Model explains approx. `64.3%` of variability of the target variable with Root M
 ## Note
 
 *Model was tuned by Grid Search and 5-fold cross-validated.*<br>
-
+_Pipeline objects are saved as binary files in **pipeline-bin/** directory._
