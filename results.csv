@@ -1,1 +1,0 @@
-Regressor,Number of folds,Mean R squared,STD R squared, Mean RMSE, STD RMSELinearRegression,10,0.6599,0.0537,0.574,0.1279SVR,10,0.6605,0.0585,0.5761,0.1409RandomForestRegressor,10,0.623,0.081,0.6058,0.1584GradientBoostingRegressor,10,0.6418,0.0659,0.5915,0.1512GradientBoostingRegressor,10,0.6418,0.0659,0.5915,0.1512BayesianRidge,10,0.661,0.0535,0.5733,0.1289
